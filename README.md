@@ -2,7 +2,7 @@
 
 ### Criando um site simples usando HTML, CSS e JavaScript
 
-Curso da [Fundação Bradesco](https://www.ev.org.br/cursost) para aprendizado em Desenvolvimento Web.
+Curso da [Fundação Bradesco](https://www.ev.org.br) para aprendizado em Desenvolvimento Web.
 
 ## Proposta
 
