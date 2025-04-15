@@ -10,7 +10,7 @@ Neste curso, você terá as informações fundamentais para trabalhar com o dese
 
 Você conhecerá os componentes básicos de um website e as ferramentas que poderá usar para iniciar o desenvolvimento Web para trabalhar digitalmente, de forma eficaz e segura.
 
-Se você estiver interessado em iniciar o desenvolvimento Web pode se deparar com uma variedade de opções disponíveis no mercado. Então, os conhecimentos obtidos neste curso serão muito importantes para que você possa ter um contexto para tomar decisões sobre como escolher estruturas JavaScript para construir seu site!
+Se você estiver interessado em iniciar o desenvolvimento Web pode se deparar com uma variedade de opções disponíveis no mercado. Então, os conhecimentos obtidos neste curso serão muito importantes para que você possa ter um contexto para tomar decisões sobre como escolher estruturas JavaScript para construir seu site.
 
 ### Conteúdo Programático
 
