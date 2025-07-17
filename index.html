@@ -4,20 +4,52 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Simple website</title>
-        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="./assets/css/main.css">
     </head>
     <body class="light-theme">
-        <h1>Task List</h1>
-        <p id="msg">Current tasks:</p>
-        <ul>
-            <li class="list">Add visual styles</li>
-            <li class="list">Add light and dark themes</li>
-            <li>Enable switching the themes</li>
-        </ul>
+        <header>
+            <img src="./assets/img/codigo.jpg" width="1000px" height="250px" alt="Ilustração código" class="site_header">
+            <h1 id="title">AM</h1>
+        </header>
+        <section>
+            <header>
+                <h2 class="subtitle">Posts</h2>
+            </header>
+            <article class="post">
+                <header>
+                    <h3 class="post_title">Post #1</h3>
+                    <img src="./assets/img/notebook.jpg" width="800px" height="400px" alt="Ilustração notebook entreaberto" class="post_image">
+                </header>
+                <p class="post_content">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt nisi risus, eget viverra ex suscipit vel. Vestibulum augue sem, congue ac tincidunt sed, sodales a mauris. Duis fermentum ut arcu ac luctus. Vestibulum accumsan, ex a tristique finibus, tellus sem interdum risus, nec condimentum est elit at nulla. Integer convallis velit eget orci tempor, et commodo risus auctor. Aenean vel suscipit ligula, quis laoreet nibh. Nullam consequat magna non enim luctus lobortis. Nulla pellentesque dolor ut metus ullamcorper, a maximus nulla eleifend. Fusce lectus nisl, posuere vitae risus nec, eleifend convallis leo. Suspendisse eget sapien nibh. Integer tempus nec quam quis vestibulum. Fusce in aliquam diam. Etiam nec lectus nisl. Nam commodo libero a ligula pulvinar, nec mattis justo consequat. Nunc vel leo id quam blandit vestibulum nec vitae tortor. Aenean venenatis orci in neque pharetra bibendum.
+                </p>
+            </article>
+        </section>
+        <footer>
+            <h3>Task List</h3>
+                <p id="msg">Current tasks:</p>
+                <ul>
+                    <li class="list">Add visual styles</li>
+                    <li class="list">Add light and dark themes</li>
+                    <li>Enable switching the themes</li>
+                </ul>
+            <h3>Contacts List:</h3>
+                <ul class="contacts_list">
+                    <li>
+                        <a href="mailto:allicedimello@disroot.org">Email</a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/allicedimello/" target="_blank">LinkedIn</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/allicedimello" target="_blank">GitHub</a>
+                    </li>
+                </ul>
+        </footer>      
         <div>
             <button class="btn">Dark</button>
         </div>
-        <script src="app.js"></script>
+        <script src="./assets/js/app.js"></script>
         <noscript>You need to enable JavaScript to view the full site.</noscript>
     </body>
 </html>
